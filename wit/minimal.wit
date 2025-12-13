@@ -1,0 +1,9 @@
+package test:minimal@1.0.0;
+
+interface plugin {
+    get-id: func() -> string;
+}
+
+world minimal {
+    export plugin;
+}

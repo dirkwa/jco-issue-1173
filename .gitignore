@@ -1,0 +1,6 @@
+bin/
+obj/
+jco-output/
+node_modules/
+package-lock.json
+*.wasm
